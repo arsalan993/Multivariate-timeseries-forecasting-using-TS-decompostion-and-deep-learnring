@@ -1,0 +1,2 @@
+price_open,price_high,price_low,price_close,volume_traded,trades_count,time_close,time_open,time_period_start,time_period_end,market_cap
+6493.94240058,6790.5,6473.8,6730.1,34356.51856579,82454,2018-09-21T22:03:27.0000000Z,2018-09-21T00:00:01.0000000Z,2018-09-21T00:00:00.000000Z,2018-09-21T23:00:00.0000000Z,116299573811.2
